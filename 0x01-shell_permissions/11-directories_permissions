@@ -1,0 +1,2 @@
+#!/Bin/Bash
+sudo find -type d -exec chmod ou+x "{}" \;
