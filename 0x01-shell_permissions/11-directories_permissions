@@ -1,2 +1,2 @@
 #!/Bin/Bash
-sudo chmod a+X
+chmod a+X *
