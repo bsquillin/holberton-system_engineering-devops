@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "The decimal value of $hexNum=%d\n" $((16#$hexNum))
+echo $((DECIMAL 16#$hexNum))
